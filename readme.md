@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@viswajithmuraleedharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@viswajithmuraleedharan" height="30" width="40" /></a>
+<a href="https://codepen.io/viswajithmuraleedharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@viswajithmuraleedharan" height="30" width="40" /></a>
 <a href="https://twitter.com/viswajithmural1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viswajithmural1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/viswajithmuraleedharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswajithmuraleedharan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@viswajithmurale1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@viswajithmurale1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/viswajithmurale1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@viswajithmurale1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/viswajithmuraleedharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viswajithmuraleedharan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/viswajitheave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="viswajitheave" height="30" width="40" /></a>
 </p>
