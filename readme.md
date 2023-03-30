@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viswajithmuraleedharan" alt="viswajithmuraleedharan" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot,Spring**
+- 🌱 I’m currently learning **Springboot, Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ViswajithMuraleedharan?tab=repositories](https://github.com/ViswajithMuraleedharan?tab=repositories)
 
