@@ -8,7 +8,7 @@
 <div margin-left="30px"><img align="right" alt="Coding" width="335" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif"/></div>
 <hr>
 - 👨‍💻 All of my projects are available at:    
-https://github.com/ViswajithMuraleedharan?tab=repositories
+(https://github.com/ViswajithMuraleedharan?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, SASS, Bootstrap, JavaScript, Java, PHP, SpringBoot, Yii, Laravel and SQL**
 
