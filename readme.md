@@ -15,7 +15,6 @@
 - 📫 How to reach me **viswajithmuralee1@gmail.com**
 
 - 📄 Know about my experiences
-- <br>
 - (https://www.dropbox.com/scl/fi/4vftjwprgz135jtwl8yof/Viswajith-Muraleedharan-resume.pdf?rlkey=fnse6bwgvd5injf3q0xobevx9&dl=0)
 
 - ⚡ Fun fact **Creative thinker**
