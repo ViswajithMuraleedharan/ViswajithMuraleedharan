@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viswajithmuraleedharan" alt="viswajithmuraleedharan" /></a> </p>
 <div margin-left="30px"><img align="right" alt="Coding" width="335" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif"/></div>
 <hr>
-- 👨‍💻 All of my projects are available at: 
+- 👨‍💻 All of my projects are available at:    
 https://github.com/ViswajithMuraleedharan?tab=repositories
 
 - 💬 Ask me about **HTML, CSS, SASS, Bootstrap, JavaScript, Java, PHP, SpringBoot, Yii, Laravel and SQL**
