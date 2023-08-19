@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://camo.githubusercontent.com/65fe05e6945d2bbd3d80f41d388199f3f7d985ae4a86b29e6304d54203a91431/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a656e7249374258557a774a456f6d6c712e676966" alt="viswajithmuraleedharan" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viswajithmuraleedharan&label=Profile%20views&color=0e75b6&style=flat" alt="viswajithmuraleedharan" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viswajithmuraleedharan" alt="viswajithmuraleedharan" /></a> </p>
+<p align="left padding-right="30px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viswajithmuraleedharan" alt="viswajithmuraleedharan" /></a> </p>
 <div margin-left="30px"><img align="right" alt="Coding" width="335" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif"/></div>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ViswajithMuraleedharan?tab=repositories](https://github.com/ViswajithMuraleedharan?tab=repositories)
