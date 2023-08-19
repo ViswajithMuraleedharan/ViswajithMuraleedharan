@@ -18,7 +18,7 @@
 <li> 📄 Know about my experiences
 - (https://www.dropbox.com/scl/fi/4vftjwprgz135jtwl8yof/Viswajith-Muraleedharan-resume.pdf?rlkey=fnse6bwgvd5injf3q0xobevx9&dl=0)</li>
 
-<li>⚡ Fun fact **Creative thinker**</li>
+<li>⚡ Fun fact I'm a creative thinker and an optimistic individual</li>
 </ul>
 <hr>
 <h3 align="left">Connect with me:</h3>
