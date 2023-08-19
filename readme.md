@@ -20,6 +20,7 @@
 
 <li>⚡ Fun fact **Creative thinker**</li>
 </ul>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/viswajithmuraleedharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@viswajithmuraleedharan" height="30" width="40" /></a>
