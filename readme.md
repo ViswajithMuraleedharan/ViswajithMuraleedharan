@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viswajithmuraleedharan&label=Profile%20views&color=0e75b6&style=flat" alt="viswajithmuraleedharan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viswajithmuraleedharan" alt="viswajithmuraleedharan" /></a> </p>
-<div margin-left="30px" margin-top="10px"><img align="right" alt="Coding" width="335" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif"/></div>
+<div margin-left="30px"><img align="right" margin-top="10px" alt="Coding" width="335" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif"/></div>
 <hr>
 - 👨‍💻 All of my projects are available at [https://github.com/ViswajithMuraleedharan?tab=repositories](https://github.com/ViswajithMuraleedharan?tab=repositories)
 
