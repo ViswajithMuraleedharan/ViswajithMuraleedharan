@@ -1,7 +1,7 @@
 <h1 align="center">Nice to meet you 👋, I'm Viswajith Muraleedharan</h1>
 <h3 align="center">👋Exploring endless horizons as a digital enthusiast– my coding encompasses a fusion of creativity and functionality. From breathing life into stale website overlays with HTML, CSS, and Bootstrap, to orchestrating seamless interactions using Sass, JavaScript, and jQuery, I do it all! 🚀 I’m proficient in the art of Java and Spring Boot, I navigate the realms of backend magic while dancing with databases like MySQL. PHP, Yii, and Laravel, adding a touch of dynamism to my skill set. Join me as I craft digital experiences that marry innovation with code!  💻🎨 </h3>
 
-<p align="center" padding-top="20px" margin-top="45px"> <img src="https://camo.githubusercontent.com/65fe05e6945d2bbd3d80f41d388199f3f7d985ae4a86b29e6304d54203a91431/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a656e7249374258557a774a456f6d6c712e676966" alt="viswajithmuraleedharan" /> </p>
+<p align="center" padding-top="20px"> <img  margin-top="45px" src="https://camo.githubusercontent.com/65fe05e6945d2bbd3d80f41d388199f3f7d985ae4a86b29e6304d54203a91431/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a656e7249374258557a774a456f6d6c712e676966" alt="viswajithmuraleedharan" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viswajithmuraleedharan&label=Profile%20views&color=0e75b6&style=flat" alt="viswajithmuraleedharan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viswajithmuraleedharan" alt="viswajithmuraleedharan" /></a> </p>
