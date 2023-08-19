@@ -11,14 +11,14 @@
 <li> 👨‍💻 All of my projects are available at:    
 (https://github.com/ViswajithMuraleedharan?tab=repositories)</li>
 
-<li> 💬 Ask me about **HTML, CSS, SASS, Bootstrap, JavaScript, Java, PHP, SpringBoot, Yii, Laravel and SQL**<li></li>
+<li> 💬 Ask me about **HTML, CSS, SASS, Bootstrap, JavaScript, Java, PHP, SpringBoot, Yii, Laravel and SQL**</li>
 
-- 📫 How to reach me **viswajithmuralee1@gmail.com**
+<li> 📫 How to reach me **viswajithmuralee1@gmail.com**</li>
 
-- 📄 Know about my experiences
-- (https://www.dropbox.com/scl/fi/4vftjwprgz135jtwl8yof/Viswajith-Muraleedharan-resume.pdf?rlkey=fnse6bwgvd5injf3q0xobevx9&dl=0)
+<li> 📄 Know about my experiences
+- (https://www.dropbox.com/scl/fi/4vftjwprgz135jtwl8yof/Viswajith-Muraleedharan-resume.pdf?rlkey=fnse6bwgvd5injf3q0xobevx9&dl=0)</li>
 
-- ⚡ Fun fact **Creative thinker**
+<li>⚡ Fun fact **Creative thinker**</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
