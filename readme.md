@@ -11,7 +11,7 @@
 <li> 👨‍💻 All of my projects are available at:    
 (https://github.com/ViswajithMuraleedharan?tab=repositories)</li>
 
-<li> 💬 Ask me about **HTML, CSS, SASS, Bootstrap, JavaScript, Java, PHP, SpringBoot, Yii, Laravel and SQL**</li>
+<li> 💬 Ask me about <h3>HTML, CSS, SASS, Bootstrap, JavaScript, Java, PHP, SpringBoot, Yii, Laravel and SQL</h3></li>
 
 <li> 📫 How to reach me **viswajithmuralee1@gmail.com**</li>
 
